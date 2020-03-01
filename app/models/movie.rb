@@ -8,6 +8,6 @@ class Movie < ApplicationRecord
   # has many through
   #----------------------------------------------------------------------------
   has_many :taggings
-  has_many :keywordss, through: :taggings
+  has_many :actors, through: :taggings
 
 end
