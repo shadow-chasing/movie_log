@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 5.2', '>= 5.2.3'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'sqlite3'
 gem 'pry', '~> 0.12.2'
 gem 'pry-rails', '~> 0.3.9'
